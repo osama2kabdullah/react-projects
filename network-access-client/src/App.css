@@ -1,0 +1,63 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em 4em;
+}
+
+.header > nav {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+.matched {
+  color: rgb(65, 65, 65);
+  font-weight: bold;
+}
+.search-bar {
+  width: 30%;
+}
+.selected-box {
+  padding: 1em;
+  border: none;
+  background-color: #ddd;
+  border-radius: 12px;
+}
+.selected-box-footer {
+  bottom: 6%;
+  right: 3%;
+  position: absolute;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin-top: 2em;
+}
+.form input{
+  padding: 0.3em;
+}
+.or-container {
+  align-items: center;
+  color: #ccc;
+  display: flex;
+  margin: 25px 0;
+}
+
+.line-separator {
+  background-color: #ccc;
+  flex-grow: 5;
+  height: 1px;
+}
+
+.or-label {
+  flex-grow: 1;
+  margin: 0 15px;
+  text-align: center;
+}
+
+.btn-google {
+  color: #545454;
+background-color: #ffffff;
+box-shadow: 0 1px 2px 1px #ddd;
+}

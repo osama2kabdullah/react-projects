@@ -1,0 +1,15 @@
+.bg-bannar {
+  background-image: url(./assets/images/bg.png);
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+.appoinment-image-bg {
+  background-image: url(./assets/images/appointment.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.footer-image-bg {
+  background-image: url(./assets/images/footer.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}

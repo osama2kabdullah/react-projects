@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "kabirs-inventory",
+    "staging": "kabirs-inventory"
+  },
+  "targets": {},
+  "etags": {}
+}

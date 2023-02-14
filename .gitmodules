@@ -1,0 +1,48 @@
+[submodule "choose-randomly"]
+	path = choose-randomly
+	url = https://github.com/osama2kabdullah/choose-randomly.git
+[submodule "mealdb-react-projects"]
+	path = mealdb-react-projects
+	url = https://github.com/osama2kabdullah/mealdb-react-projects.git
+[submodule "router-setup"]
+	path = router-setup
+	url = https://github.com/osama2kabdullah/router-setup.git
+[submodule "router-practice"]
+	path = router-practice
+	url = https://github.com/osama2kabdullah/router-practice.git
+[submodule "product-analysis-app"]
+	path = product-analysis-app
+	url = https://github.com/osama2kabdullah/product-analysis-app.git
+[submodule "firebase-route-integration"]
+	path = firebase-route-integration
+	url = https://github.com/osama2kabdullah/firebase-route-integration.git
+[submodule "shopping-react-project"]
+	path = shopping-react-project
+	url = https://github.com/osama2kabdullah/shopping-react-project.git
+[submodule "red-onion"]
+	path = red-onion
+	url = https://github.com/osama2kabdullah/red-onion.git
+[submodule "dr-jhatka"]
+	path = dr-jhatka
+	url = https://github.com/osama2kabdullah/dr-jhatka.git
+[submodule "network-access-client"]
+	path = network-access-client
+	url = https://github.com/osama2kabdullah/network-access-client.git
+[submodule "network-access-server"]
+	path = network-access-server
+	url = https://github.com/osama2kabdullah/network-access-server.git
+[submodule "kabirs-inventory-client"]
+	path = kabirs-inventory-client
+	url = https://github.com/osama2kabdullah/kabirs-inventory-client.git
+[submodule "kabirs-inventory-server"]
+	path = kabirs-inventory-server
+	url = https://github.com/osama2kabdullah/kabirs-inventory-server.git
+[submodule "doctors-portal-client"]
+	path = doctors-portal-client
+	url = https://github.com/osama2kabdullah/doctors-portal-client.git
+[submodule "jerp-client-side"]
+	path = jerp-client-side
+	url = https://github.com/osama2kabdullah/jerp-client-side.git
+[submodule "jerp-server"]
+	path = jerp-server
+	url = https://github.com/osama2kabdullah/jerp-server.git

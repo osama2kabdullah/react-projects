@@ -1,0 +1,16 @@
+.bannar {
+  height:75vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url(./images//bannerbackground.png);
+}
+.search-input:focus {
+  border: 1px solid #ddd;
+}
+.search-input {
+  border: 1px solid transparent;
+  outline: none;
+}
+/* bbannar done */
